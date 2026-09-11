@@ -128,7 +128,7 @@ function App() {
               APIs, cloud infrastructure, and automation.
             </p>
             <p className="hero-note">
-              Currently focused on junior roles in Python development, data
+              Currently focused on roles in Python development, data
               engineering, backend systems, and cloud.
             </p>
 
