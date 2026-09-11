@@ -117,7 +117,7 @@ function App() {
         <section id="home" className="hero section">
           <div className="hero-copy">
             <div className="eyebrow">
-              <span className="status-dot" /> Open to junior opportunities
+              <span className="status-dot" /> Open to all opportunities
             </div>
             <h1>
               Python
