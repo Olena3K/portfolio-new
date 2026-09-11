@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [react()],
   // This matches https://olena3k.github.io/my-portfolio/
   // If the repository name changes, update this path.
-  base: "/my-portfolio/",
+  base: "/portfolio-new/",
 });
